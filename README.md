@@ -1,1 +1,1 @@
-# nutribox-be
+Chuyển công nghệ, sử dụng NextJS => nutribox-fe = Frontend và Backend
